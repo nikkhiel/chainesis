@@ -1,0 +1,23 @@
+1 Algorithm to categorized addresses
+
+2 Categorize the addresses for given date
+
+3 Identify the new Ethereum addressed on the given date
+
+4 Find out the transactions done from these addresses
+
+5 Categorize into transactions from these addresses as 1 to Many, 1 to 1
+
+6 If it is 1 to Many consider the target address as financial institute address
+
+7 If it is 1 to 1 consider the target address as personal address
+
+8 Analyse the patterns of transactions in the day 
+
+9 Repeat the analytics for 1 week and collect the data
+
+10 Repeat the above for past one month or 4 weeks
+
+11 Use the data for predicting the transactions for next 1 week
+
+12 Perform analysis for past 6 months and predict transactions pattern for next 1 month
