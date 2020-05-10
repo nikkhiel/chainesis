@@ -7,7 +7,7 @@
 import os
 from web3 import Web3, HTTPProvider
 from interface import ContractInterface
-
+#ContractInterface is giving error on Windows10
 
 # This imports a few methods from the web3.py library along with the ContractInterface class from interface.py. Next, we’ll want to create our web3 instance using:
 
